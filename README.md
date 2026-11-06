@@ -1,16 +1,15 @@
-## Hi there 👋
+## 📊 Gabriel Braga
 
-<!--
-**gbp144-hue/gbp144-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Business & Data Solutions`**
 
-Here are some ideas to get you started:
+Meu nome é **Gabriel Braga**, um profissional com perfil híbrido que une a visão estratégica de **negócios e finanças** com a capacidade de análise de dados e desenvolvimento de software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Formação Academica:**
+
+  Graduado em **`Gestão Financeira`**
+  
+  Em formação em **`Administração`**
+  
+  Em formação em **`Banco de Dados (Foco em Ciência de Dados e IA)`**
+
+  
